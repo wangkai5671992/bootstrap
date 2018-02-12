@@ -22,6 +22,7 @@
 			<a class="btn btn-primary" href="${root}/pages/table.jsp">表格</a>
 			<a class="btn btn-primary" href="${root}/pages/img.jsp">图片</a>
 			<a class="btn btn-primary" href="${root}/pages/assist_class.jsp">辅助类</a>
+			<a class="btn btn-primary" href="${root}/pages/nav.jsp">导航</a>
 		</div>
 	</div>
 	<script>
