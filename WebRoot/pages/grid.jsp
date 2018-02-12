@@ -6,7 +6,7 @@
 <%@ include file="../common/meta.jsp"%>
 <%@ include file="../common/style.jsp"%>
 <%@ include file="../common/script.jsp"%>
-<title>栅格系统</title>
+<title>栅格系统11</title>
 </head>
 <body>
 	<div class="container">
