@@ -1,4 +1,4 @@
-<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%@ include file="../common/taglib.jsp"%>
 <!DOCTYPE html>
 <html lang="zh-CN">
@@ -6,7 +6,7 @@
 <%@ include file="../common/meta.jsp"%>
 <%@ include file="../common/style.jsp"%>
 <%@ include file="../common/script.jsp"%>
-<title>表格11111111111111111111</title>
+<title>表格</title>
 </head>
 <body>
 	<div class="container">
